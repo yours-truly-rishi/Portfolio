@@ -1,5 +1,5 @@
 # Maharshi Patel [Portfolio]
-Hi visitor
+Hi visitor,
 
 Thanks for expressing your interest towards this portfolio code.
 
