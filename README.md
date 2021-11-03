@@ -1,7 +1,14 @@
 # Maharshi Patel [Portfolio]
 
 ## Technology Stack
-Front-End: React
+### frontend: React
+- Node.js version v16.13.0 used while developing.
+- Installation Steps
+```
+cd frontend
+npm install
+npm start
+```
 
 ## Foot Note
 Hi visitor,
