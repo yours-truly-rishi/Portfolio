@@ -1,9 +1,11 @@
+import Logo from './Components/Logo/Logo'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h2>AMRISHI</h2>
+    <Logo></Logo>
+      <h2>Content</h2>
     </div>
   );
 }
