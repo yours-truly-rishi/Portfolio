@@ -1,8 +1,5 @@
 .App {
-  display: flex;
-  height: 100vh;
-  flex-direction: column;
-  margin: 0;
+  padding: 10px 24px;
 }
 
 .App-logo {
